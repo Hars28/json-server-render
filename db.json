@@ -2,9 +2,11 @@
     "users": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "name": "abc",
+        "uname":"abc",
+        "avatar": "https://i.pravatar.cc/300",
+        "email": "abc@gmail.com",
+        "password": "123456"
       }
     ],
     "posts": [
